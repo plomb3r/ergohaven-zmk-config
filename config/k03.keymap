@@ -3,11 +3,11 @@
 // ===== НАСТРОЙКИ МЫШИ =====
 // Увеличиваем скорость курсора (было 600, ставим 800)
 
-#define ZMK_POINTING_DEFAULT_MOVE_VAL 800
+#define ZMK_POINTING_DEFAULT_MOVE_VAL 950
 
 // Увеличиваем скорость прокрутки (было 10, ставим 30 для прокрутки ~3 строк)
 
-#define ZMK_POINTING_DEFAULT_SCRL_VAL 30
+#define ZMK_POINTING_DEFAULT_SCRL_VAL 20
 
 // Подключаем заголовок мыши ПОСЛЕ наших определений
 
